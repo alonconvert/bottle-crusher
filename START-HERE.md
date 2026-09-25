@@ -10,7 +10,7 @@ Phase 3 has started.
 (manual power) and 001 (cap off, crush, cap back on).
 
 **Next action:** keep brainstorming with the owner, using the brainstorm map
-in `docs/03-concepts.md`. No choosing and no specifications yet. In parallel,
+in `docs/03-concepts.md` and the prior-art research in `docs/research/`. No choosing and no specifications yet. In parallel,
 the owner can do the home measurements in `docs/00-process.md` whenever
 convenient.
 

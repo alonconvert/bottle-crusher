@@ -44,6 +44,15 @@ and stackable pucks. Parked the hydraulic detail for later.
 **Lesson for future sessions:** follow the owner's pace. While brainstorming,
 offer options and principles, not sizes, part searches, or decisions.
 
+Then ran web research on prior art, at the owner's request:
+`docs/research/2026-09-25-prior-art.md`. Main findings: no well-designed PET
+crusher exists in the maker world (only can crushers, one crank crusher, and
+bottle cutters); products reach about 1/2 to 1/4 of the original volume;
+the bottle base and neck are the hard parts; Evian's crushable bottle shows
+that fold lines make crushing neat and easy, which suggests a crusher that
+imposes fold lines (and star or spiral shapes). Added these as brainstorm
+sparks in `03-concepts.md`.
+
 **Next:** Keep brainstorming. The owner can do the Phase 2 measurements
 whenever convenient.
 

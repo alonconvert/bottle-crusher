@@ -83,6 +83,26 @@ That is where the interesting combinations come from.
 - **The release:** a spring-back handle, a trapdoor, or a drawer the puck
   drops into
 
+## Ideas sparked by the research (2026-09-25)
+
+See `research/2026-09-25-prior-art.md` for the sources.
+
+- **Tell the bottle where to fold.** Evian made bottles with built-in fold
+  lines that collapse neatly with very little force. A crusher could impose
+  the fold lines from outside instead, with ribs, a twist, or a shaped chamber,
+  so an ordinary bottle folds like a designed one. This is also the natural
+  route to a star or a spiral result.
+- **Beat 1/4.** Everything on the market seems to reach about 1/2 to 1/4 of
+  the original volume. A clearly better result is the story.
+- **The base is the enemy.** Machines everywhere struggle with the thick bottom
+  of the bottle and the neck. The neck is already solved in our case (it
+  sticks out), so the base needs its own trick, such as a shaped pocket or a
+  final extra-hard squeeze.
+- **Gravity is a carrier too:** a weight that falls or slides, reset by the
+  handle.
+- **Belts that pull the bottle through,** like a reverse vending machine: a
+  continuous "feed it in, it comes out flat" experience.
+
 ## Example combinations, to spark ideas
 
 | Name | Hand | Shaper | Carrier | Bottle | Show |
