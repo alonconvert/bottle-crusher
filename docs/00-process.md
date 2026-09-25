@@ -25,3 +25,14 @@ usually means paying for parts twice.
 5. Repeat for the same bottle crushed fully flat, and for 3 different brands.
 
 Photograph each step into `photos/`.
+
+### Extra measurements (added 2026-09-25)
+
+6. **The neck:** with a ruler, measure from the ring under the threads to the
+   top of the bottle opening, without the cap. This is the part that must stick
+   out of the crushed bottle so the cap can go back on.
+7. **The hand-crush baseline:** crush one bottle as flat as you can with your
+   hands and feet, screw the cap back on, and measure its height and width.
+   Photograph it. The crusher has to beat this clearly.
+8. **Bottle size:** the height and the widest diameter of each brand, to
+   replace the ASSUMED values in `cad/bottle_reference.py`.

@@ -17,10 +17,17 @@ risk.
 
 **Decided later in the session:** Decision 001, cap off, crush, cap back on.
 The device must still be safe if someone forgets the cap. Decision 002: manual
-power, no motor.
+power, no motor. Decision 003: no special features for a forgotten cap,
+because only two adults use it; the enclosed chamber contains any mistake.
+The owner then set priorities: the crushed result is the top priority (as
+thin and airless as possible, only the neck sticking out), crushing should be
+felt by hand, up to 12 bottles a day, and usability matters more than budget.
+Started `docs/03-concepts.md` with the owner's lever-juicer idea and four
+alternatives, plus the stroke vs force trade-off. Added neck, hand-crush, and
+bottle-size steps to the Phase 2 measurements.
 
-**Next:** Owner answers round 2 questions 17 to 19 (bottles per day,
-counter space, budget) and does the Phase 2 measurements.
+**Next:** Owner answers Q18 (counter space, especially the height) and Q5
+(puck or strip), then does the Phase 2 measurements.
 
 ## 2026-09-25, session 1
 

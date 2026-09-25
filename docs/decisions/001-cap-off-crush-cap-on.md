@@ -37,6 +37,8 @@ which is the owner's main goal. The cost is one extra step for the user.
   confirm this.
 - Somewhere to put the cap during crushing, such as a small cap holder, would
   help.
+- **Updated by decision 003:** the owner guarantees cap-off use, so there are
+  no special forgotten-cap features. The original note follows.
 - **People will sometimes forget to take the cap off.** Requirement R8 still
   applies: a capped bottle must not burst, spray, or break the device. Phase 3
   must show how each mechanism handles that, for example by limiting the force,

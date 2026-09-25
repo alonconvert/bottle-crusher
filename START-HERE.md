@@ -3,14 +3,16 @@
 **Goal:** a countertop crusher for empty 1.5 L PET bottles, designed with
 Claude and built from parts ordered from fabrication services in Thailand.
 
-**Current phase:** 1, Requirements (round 1 answered).
+**Current phase:** 1, Requirements (rounds 1 and 2 mostly answered).
 
-**Last decision:** 002, manual power, no motor. Before that, 001, cap off, crush, cap back on.
+**Last decision:** 003, no special forgotten-cap features. Before that, 002
+(manual power) and 001 (cap off, crush, cap back on).
 
-**Next action:** the owner answers the round 2 questions 17 to 19 in
-`docs/01-requirements.md`, confirms or corrects the draft requirements table,
-and does the home measurements in `docs/00-process.md` with Chang and Singha
-bottles.
+**Next action:** the owner answers Q18 (counter width, depth, and height to
+the cupboard above) and Q5 (puck or flat strip) in `docs/01-requirements.md`,
+then does the home measurements in `docs/00-process.md`, including the new
+neck and hand-crush steps. Mechanism ideas are collected in
+`docs/03-concepts.md`.
 
 ## Resuming work
 
