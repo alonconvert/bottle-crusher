@@ -3,7 +3,7 @@
 I want to design a physical product with your help and take it all the way
 from idea to a working device on my kitchen counter. This is a personal
 project. It has nothing to do with Converty OS or my agency work, so never
-read, write, or reference any other project folder.
+read, write, or reference any other repository.
 
 ## The product
 
@@ -34,13 +34,11 @@ A countertop device that crushes empty 1.5 litre PET drinking bottles.
 
 ## Where everything lives
 
-All project files live in one local folder on my Mac:
+All project files live in the GitHub repository alonconvert/bottle-crusher.
+Claude Code cloud sessions are temporary, so commit and push to main at the
+end of every session, or the work is lost. Use this structure:
 
-    ~/Documents/Bottle Crusher/
-
-Keep everything inside it. Use this structure:
-
-    Bottle Crusher/
+    bottle-crusher/
     ├── START-HERE.md          What this project is and how to resume it
     ├── PROJECT-LOG.md         Dated log: what happened, what's next
     ├── docs/
@@ -162,6 +160,7 @@ This device concentrates force near fingers. Every mechanism proposal must:
 2. Write cad/bottle_reference.py: a simple model of an uncrushed 1.5 L bottle
    to design around. Mark every dimension ASSUMED. Run it if you can and
    export the STEP, STL, and a preview image.
+   Exports in cad/out/ are not committed; regenerate them from the scripts.
 3. Start Phase 1. Ask me the first 3 to 5 requirement questions. Cover these
    areas over the next few rounds:
    - **Bottles:** which brands I drink, cap on or off, other sizes too.
@@ -177,4 +176,5 @@ This device concentrates force near fingers. Every mechanism proposal must:
    an empty uncapped bottle on it, press down with a flat board until it
    buckles, and read the peak in kilograms. Then again until it's fully flat.
    Repeat for 3 brands and photograph each step into photos/.
-5. At the end of the session, update START-HERE.md and PROJECT-LOG.md.
+5. At the end of the session, update START-HERE.md and PROJECT-LOG.md,
+   then commit and push to main.

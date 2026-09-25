@@ -9,7 +9,7 @@ requirements questionnaire, the vendor candidate list, and a reference CAD
 model of an uncrushed 1.5 L bottle with assumed dimensions.
 
 **Decided:** CAD is written as parametric Python with CadQuery. Project files
-live in this repository.
+live in this repository, and work happens in Claude Code sessions, not Cowork.
 
 **Next:** Owner answers the first requirement questions and measures real
 bottles.

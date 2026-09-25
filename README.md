@@ -26,10 +26,11 @@ counter:
 | `photos/` | Measurements, prototypes, and test results |
 | `orders/` | Quotes, order confirmations, and shipping notes |
 
-## Working with Claude Cowork
+## Working with Claude
 
-Clone this repository into `~/Documents/Bottle Crusher`, give Cowork access to
-that folder, and paste `docs/cowork-kickoff-prompt.md` as the first message.
+Open a Claude Code session on this repository. For a fresh start, paste
+`docs/kickoff-prompt.md` as the first message. Claude reads `START-HERE.md`
+and `PROJECT-LOG.md` to pick up where the last session stopped.
 
 ## Current phase
 

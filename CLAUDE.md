@@ -8,7 +8,10 @@ decision and does all physical work: measuring, printing, ordering, assembling.
 ## How to work here
 
 - **Start every session by reading `START-HERE.md` and `PROJECT-LOG.md`.**
-  End every session by updating both.
+  End every session by updating both, then commit and push to `main`.
+  Cloud sessions are temporary, so unpushed work is lost.
+- **Commit straight to `main`.** This is a one-person design notebook, so no
+  branches or pull requests unless the owner asks for them.
 - **Follow the phases in `docs/00-process.md`.** Do not jump to CAD before the
   requirements are agreed, and do not order parts before a prototype passed.
 - **Ask before assuming.** Anything that depends on the owner's kitchen, bottles,
