@@ -34,8 +34,18 @@ pumps per bottle and 10 kg of hand effort, all ASSUMED), finger-safety guards
 valve), and honest downsides (oil in the kitchen, industrial-looking parts,
 harder assembly). Added R16, fast release.
 
-**Next:** Owner confirms idea F as the lead concept, answers Q18 (counter
-space, especially the height), and does the Phase 2 measurements.
+The owner then pointed out that this was too early: this stage is about
+principles and brainstorming, not specifications or part models. Restructured
+`03-concepts.md` as a brainstorm map with five links (hand, force shaper,
+carrier, bottle action, result and show), options for each, and example
+combinations, including shaped results such as stars, the spiral origami fold,
+and stackable pucks. Parked the hydraulic detail for later.
+
+**Lesson for future sessions:** follow the owner's pace. While brainstorming,
+offer options and principles, not sizes, part searches, or decisions.
+
+**Next:** Keep brainstorming. The owner can do the Phase 2 measurements
+whenever convenient.
 
 ## 2026-09-25, session 1
 

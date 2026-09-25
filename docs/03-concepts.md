@@ -1,21 +1,101 @@
 # Concepts
 
-Status: **collecting ideas.** The proper comparison (Phase 3) happens after the
-Phase 2 measurements, because the numbers decide which mechanism is strong
-enough.
+Status: **brainstorming.** Still exploring principles: no parts, no sizes, no
+choosing yet. The proper comparison happens later in Phase 3, after the Phase 2
+measurements.
 
 ## What the owner wants from the mechanism (2026-09-25)
 
 - **The crushed bottle is the star.** As thin and airless as possible,
-  "something you could never do with your hands". The finished puck or strip
-  should be satisfying to look at.
+  "something you could never do with your hands", and satisfying to look at.
+  Maybe even a designed shape, like a star.
 - **Only the threaded neck sticks out**, just enough to screw the cap back on.
-- **You feel it.** Powered by hand, with real feedback, so you feel strong
-  while crushing. The owner likes the classic lever juicer: a long handle
-  turning a gear that drives a toothed bar (a rack) down onto the fruit.
-- **Compact** is still wanted, and the owner knows the juicer shape is tall.
+- **You feel it and you see it.** Powered by hand, with real feedback, and a
+  cool thing to watch. An object a man wants on his counter.
+- **Fast at the start, strong at the end, quick release.**
+- **Compact** is still wanted.
 
-## Ideas to compare in Phase 3
+## The brainstorm map
+
+Any crusher is a chain of five links. Each link has many options, and almost
+any option in one column can be combined with almost any option in the next.
+That is where the interesting combinations come from.
+
+**Hand → force shaper → carrier → bottle action → the result and the show**
+
+### 1. What your hand (or foot) does
+
+- Pull a long lever down (juicer, slot machine)
+- Pump a short handle again and again (car jack)
+- Turn a crank or a big wheel (ship's wheel, coffee grinder)
+- Twist a knob or a top, like opening a giant jar
+- Close a heavy lid (waffle iron, panini press)
+- Push a drawer shut
+- Step on a pedal
+- Pull a rope or a T-handle down
+
+### 2. How the force gets shaped: fast at the start, strong at the end
+
+- Gears: a small gear driving a big one
+- A spiral cam: a snail-shaped disc whose radius changes, so the push starts
+  fast and ends slow and strong. Compound bows use the same trick.
+- A toggle: two links that straighten out, getting stronger right at the end
+- A screw: slow and enormously strong
+- Hydraulics: oil and pistons, including a two-speed pump that switches by
+  itself
+- Air: pump up pressure, then let it do the work
+- Pulleys and rope, like a sailing boat's block and tackle
+- A wedge sliding under a plate
+- A ratchet: every pump adds a click and a little more squeeze
+
+### 3. What carries the force to the bottle
+
+- A straight push rod or plunger
+- A rack, a toothed bar driven by a gear
+- A chain or a toothed belt over sprockets, like a bicycle
+- A cable or a steel wire rope
+- A long screw with a nut riding on it
+- Scissor arms, like a car scissor jack or a lifting table
+- A rolling drum or rollers
+
+### 4. What happens to the bottle
+
+- Squashed top to bottom (a puck)
+- Pressed flat on its side (a strip)
+- Rolled between two rollers, like an old clothes wringer (a flat ribbon)
+- **Twisted while squashed:** the bottle folds into a neat spiral of
+  triangles. It is a known origami fold (the "Kresling" pattern), and it
+  collapses very flat and very neatly.
+- Pressed into a shaped mould (a star, a flower, a gear, a logo)
+- Sucked flat by pulling the air out (vacuum). Even, but probably not thin
+  enough on its own.
+
+### 5. The result and the show
+
+- **Shape:** a plain puck, a star, a spiral, a pressed logo or pattern
+- **Stackable pucks:** every crushed bottle comes out the same shape, so they
+  stack like coins. A clear tube could collect the day's stack as a visible
+  score.
+- **A window:** a clear chamber, so you watch the bottle fold
+- **Sound and feel:** ratchet clicks, a solid "clunk" at the end
+- **The finish:** the neck pops up through the top, cap on, done, like a
+  trophy
+- **The release:** a spring-back handle, a trapdoor, or a drawer the puck
+  drops into
+
+## Example combinations, to spark ideas
+
+| Name | Hand | Shaper | Carrier | Bottle | Show |
+| --- | --- | --- | --- | --- | --- |
+| The Juicer | Long lever | Gears | Rack | Top-to-bottom puck | Classic chrome look |
+| The Jack | Pump handle | Two-speed hydraulics | Chain over a sprocket | Top-to-bottom puck | Clicks, heavy feel |
+| The Twister | Twist the top | Screw | Screw plus rotation | Spiral origami fold | Watch it spiral down in a window |
+| The Star Press | Lever | Spiral cam | Plunger | Pressed into a star mould | Stack of stars in a clear tube |
+| The Wringer | Crank | Gears | Two rollers | Flat ribbon | Continuous: feed it in, it comes out flat |
+| The Waffle Iron | Close a heavy lid | Toggle | Hinged lid | Flat with a pressed pattern | Opens like a book |
+
+## Earlier idea list (kept for reference)
+
 
 | # | Idea | How it works, in plain words | First thoughts |
 | --- | --- | --- | --- |
@@ -23,7 +103,7 @@ enough.
 | B | Lever juicer with a ratchet | The same, but you pump the handle 3 or 4 times, with a click each time, like a car jack | Solves the stroke problem and adds satisfying clicks. Slower per bottle |
 | C | Toggle lever | A lever and a link that straighten out at the bottom, like a wall can crusher. The force gets bigger right at the end, where the bottle is hardest to squash | Strong finish in one pull. Hard to make the end of the stroke very thin |
 | D | Screw press | You turn a wheel or crank, a big screw drives a plate down | Enormous force and very thin results. Compact. But slow: many turns per bottle |
-| F | **Two-speed hydraulic pump (owner's idea, lead candidate)** | Pump a handle like a car jack. Oil pushes a piston that lifts the crushing plate: fast at first, then slow and very strong. A release knob drops it back in a second | See the full write-up below |
+| F | Two-speed hydraulic pump (owner's idea) | Pump a handle like a car jack. Oil pushes a piston that lifts the crushing plate: fast at first, then slow and very strong. A release knob drops it back in a second | See the full write-up below |
 | E | Sideways flattener | Squashes the bottle flat on its side into a strip | Less height needed. The neck is harder to reach for recapping |
 
 ## The key trade-off: stroke vs force
@@ -48,7 +128,10 @@ comfortably. If they need 40 kg, it might.
 All numbers here are rough and use ASSUMED dimensions. Phase 4 redoes them with
 measured values and a safety factor.
 
-## Idea F in detail: two-speed hydraulic pump (2026-09-25)
+## Parked detail: two-speed hydraulic pump (2026-09-25)
+
+Written too early, before the brainstorm. Parked here for Phase 4 if this
+principle gets picked. Nothing below is a choice.
 
 The owner's idea: pump a handle with the same comfortable effort every time,
 and let hydraulics turn that into speed at the start and huge force at the

@@ -3,15 +3,16 @@
 **Goal:** a countertop crusher for empty 1.5 L PET bottles, designed with
 Claude and built from parts ordered from fabrication services in Thailand.
 
-**Current phase:** 1, Requirements (rounds 1 and 2 mostly answered).
+**Current phase:** 1, Requirements, mostly answered. Early brainstorming for
+Phase 3 has started.
 
 **Last decision:** 003, no special forgotten-cap features. Before that, 002
 (manual power) and 001 (cap off, crush, cap back on).
 
-**Next action:** the owner confirms whether the two-speed hydraulic pump
-(idea F in `docs/03-concepts.md`) is the lead concept, answers Q18 (counter
-space, especially the height), and does the home measurements in
-`docs/00-process.md`, including the neck and hand-crush steps.
+**Next action:** keep brainstorming with the owner, using the brainstorm map
+in `docs/03-concepts.md`. No choosing and no specifications yet. In parallel,
+the owner can do the home measurements in `docs/00-process.md` whenever
+convenient.
 
 ## Resuming work
 
