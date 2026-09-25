@@ -1,6 +1,6 @@
 # Requirements
 
-Status: **round 1 answered, round 2 questions waiting for the owner.**
+Status: **round 1 answered, round 2 partly answered (Q16 and Q20).**
 
 ## What we know
 
@@ -44,10 +44,12 @@ them and the round 2 questions fill in the numbers.
 | R5 | Looks like a designed kitchen object | Owner approves renders before prototype | Draft |
 | R6 | Cheap to make | Budget to confirm (Q19) | Draft |
 | R7 | Cannot hurt a hand | No gap a finger can enter while force is applied | Draft |
-| R8 | Safe with a capped bottle or leftover water | No spraying, no bursting, no broken parts | Draft |
+| R8 | Safe with a capped bottle or leftover water | No spraying, no bursting, no broken parts, even if the user forgets to remove the cap | Draft |
 | R9 | Assembled at home with household tools | Screwdriver, hex key, glue; no drilling, cutting, or welding | Draft |
 | R10 | Survives Bangkok heat and humidity | No rust, no warping in a hot kitchen | Draft |
 | R11 | Could later become a sellable kit | Flat-pack friendly, parts that can be made in batches | Draft, nice to have |
+| R12 | Normal use: cap off, crush, cap back on | Neck stays reachable while the bottle is held crushed | Accepted (decision 001) |
+| R13 | Manually powered, no motor | Comfortable effort for one adult; the exact limit is set in Phase 4 | Accepted (decision 002) |
 
 ### What "most compact" can mean (rough, from ASSUMED dimensions)
 
@@ -73,13 +75,12 @@ its volume raises the air pressure inside to about 4 times normal. Water
 bottles are thin, because unlike soda bottles they are not built to hold
 pressure. Squeezing one hard can make the cap shoot off or the bottle split,
 and leftover water can spray. The design will have to handle this (R8). Q16
-asks how the owner uses caps today.
+asked how the owner uses caps. The answer is decision 001: cap off, crush, cap back on.
 
 ## Open questions, round 2 (for the owner)
 
-16. **Caps:** today, do you throw bottles away with the cap on or off? Would
-    you accept "cap off, crush, then screw the cap back on"? That trick keeps
-    the bottle from springing back open.
+16. ~~**Caps:**~~ **Answered 2026-09-25:** cap off, crush, cap back on. See
+    `decisions/001-cap-off-crush-cap-on.md`.
 17. **Volume:** roughly how many bottles a day, and how often is the bin
     emptied?
 18. **Space:** how much counter space can it take: width, depth, and the
@@ -87,9 +88,8 @@ asks how the owner uses caps today.
     standing 1.5 L bottle is about 32 cm tall before it is crushed.
 19. **Money:** what is your budget in baht for the first working prototype?
     If you ever sold it, what price do you imagine it would sell for?
-20. **Power:** hand lever, or a motor? A hand lever is cheaper, quieter,
-    simpler to build, and easier to make finger-safe. A motor feels more like
-    an appliance but costs more and adds electrical safety work.
+20. ~~**Power:**~~ **Answered 2026-09-25:** manual, no motor. See
+    `decisions/002-manual-power.md`.
 
 ## Still open from round 1
 

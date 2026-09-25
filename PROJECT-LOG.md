@@ -13,11 +13,14 @@ a possibility. Wrote a draft requirements table (R1 to R11) with rough
 compaction estimates and an explanation of why a capped bottle is a safety
 risk.
 
-**Decided:** Nothing final. The requirements are still a draft until the owner
-confirms them.
+**Decided:** The requirements stay a draft until the owner confirms them.
 
-**Next:** Owner answers round 2 questions 16 to 20 (caps, bottles per day,
-counter space, budget, lever or motor) and does the Phase 2 measurements.
+**Decided later in the session:** Decision 001, cap off, crush, cap back on.
+The device must still be safe if someone forgets the cap. Decision 002: manual
+power, no motor.
+
+**Next:** Owner answers round 2 questions 17 to 19 (bottles per day,
+counter space, budget) and does the Phase 2 measurements.
 
 ## 2026-09-25, session 1
 

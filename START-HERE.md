@@ -5,9 +5,9 @@ Claude and built from parts ordered from fabrication services in Thailand.
 
 **Current phase:** 1, Requirements (round 1 answered).
 
-**Last decision:** none yet.
+**Last decision:** 002, manual power, no motor. Before that, 001, cap off, crush, cap back on.
 
-**Next action:** the owner answers the round 2 questions (16 to 20) in
+**Next action:** the owner answers the round 2 questions 17 to 19 in
 `docs/01-requirements.md`, confirms or corrects the draft requirements table,
 and does the home measurements in `docs/00-process.md` with Chang and Singha
 bottles.
