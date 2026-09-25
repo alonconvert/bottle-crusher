@@ -26,8 +26,16 @@ Started `docs/03-concepts.md` with the owner's lever-juicer idea and four
 alternatives, plus the stroke vs force trade-off. Added neck, hand-crush, and
 bottle-size steps to the Phase 2 measurements.
 
-**Next:** Owner answers Q18 (counter space, especially the height) and Q5
-(puck or strip), then does the Phase 2 measurements.
+Then the owner proposed a hydraulic pump, like a car jack: fast at the start,
+strong at the end, with a quick release. Wrote it up as idea F in
+`03-concepts.md`, with how a two-speed pump works, rough sizing (about 8
+pumps per bottle and 10 kg of hand effort, all ASSUMED), finger-safety guards
+(an enclosure, a door interlock on the release valve, a pressure relief
+valve), and honest downsides (oil in the kitchen, industrial-looking parts,
+harder assembly). Added R16, fast release.
+
+**Next:** Owner confirms idea F as the lead concept, answers Q18 (counter
+space, especially the height), and does the Phase 2 measurements.
 
 ## 2026-09-25, session 1
 

@@ -8,11 +8,10 @@ Claude and built from parts ordered from fabrication services in Thailand.
 **Last decision:** 003, no special forgotten-cap features. Before that, 002
 (manual power) and 001 (cap off, crush, cap back on).
 
-**Next action:** the owner answers Q18 (counter width, depth, and height to
-the cupboard above) and Q5 (puck or flat strip) in `docs/01-requirements.md`,
-then does the home measurements in `docs/00-process.md`, including the new
-neck and hand-crush steps. Mechanism ideas are collected in
-`docs/03-concepts.md`.
+**Next action:** the owner confirms whether the two-speed hydraulic pump
+(idea F in `docs/03-concepts.md`) is the lead concept, answers Q18 (counter
+space, especially the height), and does the home measurements in
+`docs/00-process.md`, including the neck and hand-crush steps.
 
 ## Resuming work
 

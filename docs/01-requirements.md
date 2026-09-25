@@ -44,6 +44,10 @@ In the owner's own words, summarised:
   to screw the cap back on.
 - **Feel:** you crush it with your own strength and feel it happen.
 - **How many:** up to 12 bottles a day.
+- **Mechanism idea:** hydraulic, pumped like a car jack. Fast at the start,
+  very strong at the end, same hand effort throughout, plus a fast release so
+  the bottle comes out without waiting. Written up as idea F in
+  `03-concepts.md`.
 - **Budget:** not the constraint. Usability comes first. Cheap manufacturing
   still matters later, if it is ever sold.
 
@@ -69,6 +73,7 @@ them and the round 2 questions fill in the numbers.
 | R13 | Manually powered, no motor | Comfortable effort for one adult; the exact limit is set in Phase 4 | Accepted (decision 002) |
 | R14 | Satisfying to use | You feel the bottle give way under your hand | Draft |
 | R15 | Quick enough for daily use | Up to 12 bottles a day; one bottle, including recapping, in about 20 seconds (proposed) | Draft |
+| R16 | Fast release | The crushed bottle comes out within a couple of seconds after crushing | Draft |
 
 ### What "most compact" can mean (rough, from ASSUMED dimensions)
 
